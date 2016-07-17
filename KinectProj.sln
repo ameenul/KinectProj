@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B75C055E-1BF4-877E-A90F-CBD695AB16DA}") = "KinectProj", "Assembly-CSharp.csproj", "{33E50C6F-C85D-9DCC-E066-4495AB7BAA04}"
+EndProject
+Project("{B75C055E-1BF4-877E-A90F-CBD695AB16DA}") = "KinectProj", "Assembly-CSharp-Editor.csproj", "{4CAD946A-C218-BE6E-4D7B-6EEBF0078327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E50C6F-C85D-9DCC-E066-4495AB7BAA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E50C6F-C85D-9DCC-E066-4495AB7BAA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E50C6F-C85D-9DCC-E066-4495AB7BAA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E50C6F-C85D-9DCC-E066-4495AB7BAA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAD946A-C218-BE6E-4D7B-6EEBF0078327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAD946A-C218-BE6E-4D7B-6EEBF0078327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAD946A-C218-BE6E-4D7B-6EEBF0078327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAD946A-C218-BE6E-4D7B-6EEBF0078327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

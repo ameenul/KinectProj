@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/try5.unity
+- path: Assets/FIXkotak.unity
   isLoaded: 1
   isActive: 1
